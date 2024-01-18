@@ -41,7 +41,7 @@ EduQuestAR is a cutting-edge project aimed at augmenting images in textbooks to 
    npm start
    
 
-4. Open your web browser and navigate to http://localhost:3000 to experience EduQuestAR. 🌐🚀
+4. Open your web browser and navigate to http://localhost:5317 to experience EduQuestAR. 🌐🚀
 
 ## Usage
 
