@@ -25,7 +25,7 @@ EduQuestAR is a cutting-edge project aimed at augmenting images in textbooks to 
 1. Clone the repository:
 
    bash
-   git clone https://github.com/your-username/EduQuestAR.git
+   git clone https://github.com/HarshVerma007/MiniProject.git
    cd EduQuestAR
    
 
